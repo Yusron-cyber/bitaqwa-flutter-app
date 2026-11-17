@@ -98,7 +98,7 @@ class NotFoundScreen extends StatelessWidget {
                 Text('Halaman tidak ditemukan', style: AppText.h2),
                 const SizedBox(height: 8),
                 Text(
-                  'Rute "$route" tidak tersedia. Silakan kembali ke beranda.',
+                  'Rute "$route" Tidak tersedia. Silakan kembali ke beranda.',
                   textAlign: TextAlign.center,
                   style: AppText.body,
                 ),
